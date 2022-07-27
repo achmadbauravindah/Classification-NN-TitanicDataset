@@ -1,6 +1,6 @@
 # Classification Titanic Survived with Simple Neural Networks
 
-### Description: This code is contain Tuning Parameter to Optimze Model Params
+### Description: This code contain Tuning Parameter to Optimze Model Params
 
 ### Data: https://www.kaggle.com/competitions/titanic/data
 
